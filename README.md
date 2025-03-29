@@ -1,6 +1,7 @@
 ### Introduction
 * Python version: 3.9.7
 * Developed using [Quart](https://quart.palletsprojects.com/en/latest/) Framework
+* Use it along with the [frontend](https://github.com/alluth-sys/telethon-frontend) application
 
 ### Build the application
 
