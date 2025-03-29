@@ -2,7 +2,7 @@
 * Python version: 3.9.7
 * Developed using [Quart](https://quart.palletsprojects.com/en/latest/) Framework
 
-### build the application
+### Build the application
 
 ```
 $ cd <the/path/of/the/application>
